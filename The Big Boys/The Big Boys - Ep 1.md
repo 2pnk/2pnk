@@ -88,7 +88,7 @@ gantt
 ## About The Author
 
 :::info
-**2PNK** _Hello Pinky_ Hello Pinky
+**2PNK** _Hello Pinky_ Hello Pinky _hello_ _hello_
 :::
 
 ###### tags: `2PNK` `Documentation`
