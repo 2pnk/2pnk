@@ -6,14 +6,13 @@ disqus: 2pnk
 # The Big Boys - Ep #1
 
 ![title](https://img.shields.io/badge/Episode_1-The_Big_Boys-blue)
-
 ![author](https://img.shields.io/badge/Author-%202PNK-8A2BE2)
 
 ## Table of Contents
 
 [TOC]
 
-## The Big Boys 1
+## Chapter 1 - The Noob
 
 If you are a total beginner to this, start here!
 
@@ -86,10 +85,10 @@ gantt
 
 > Read more about mermaid here: http://mermaid-js.github.io/mermaid/
 
-## Appendix and FAQ
+## About The Author
 
 :::info
-**Find this document incomplete?** Leave a comment!
+**2PNK** _Hello Pinky_ Hello Pinky
 :::
 
-###### tags: `Templates` `Documentation`
+###### tags: `2PNK` `Documentation`
